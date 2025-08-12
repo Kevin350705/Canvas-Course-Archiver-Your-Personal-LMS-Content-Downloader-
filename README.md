@@ -1,0 +1,2 @@
+# Canvas-Course-Archiver-Your-Personal-LMS-Content-Downloader-
+This is a Python script using Playwright to scrape and archive content from Canvas LMS course modules. It connects to a local debugging port to automatically navigate through all module pages, extract the main content, and merge it into a single HTML or Word  file. Say goodbye to manual copy-pasting and effortlessly organize your course materials.
